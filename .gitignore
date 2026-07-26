@@ -10,6 +10,8 @@ data/raw/**/*.tiff
 data/raw/**/*.ASC
 data/raw/**/*.asc
 processed_data/
+data/
+Samples/
 *.mp4
 *.gif
 
